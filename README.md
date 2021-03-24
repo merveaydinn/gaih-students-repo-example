@@ -4,7 +4,7 @@
 **Course Date:** 22.03.2021 
 **Name:** Merve  
 **Surname:** Aydın  
-**Email:** mertcobanov@gmail.com  
+**Email:**   
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
